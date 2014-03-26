@@ -1,0 +1,15 @@
+#logo {
+	width: 420px;
+	height: 51px;
+	background-image : url('../images/logo.png'); 
+}
+#logo:hover {
+	background-image : url('../images/logo_o.png'); 
+}
+a {
+    color: #464646;
+    text-decoration: none;
+}
+a:hover, a.selected {
+	color:rgb(221,154,20);
+}
